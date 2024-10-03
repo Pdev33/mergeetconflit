@@ -1,4 +1,4 @@
-# mergeetconflit
+REMOTE
 
 nazenaze
 naze
